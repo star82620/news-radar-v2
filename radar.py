@@ -11,7 +11,7 @@ import xml.etree.ElementTree as ET
 KEYWORD = "鳥類遷徙"
 
 # 一則訊息最多列幾條新聞，減少訊息過多。
-MAX_ITEMS = 3
+MAX_ITEMS = 5
 
 # 雷達的記憶檔：看過的新聞連結都記在這裡。
 SEEN_FILE = "seen.json"
